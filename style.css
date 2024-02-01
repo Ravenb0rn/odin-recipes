@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(196, 222, 245);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+.ruby {
+text-align: center;
+font-size: 70px;
+}
+.amber {
+    color: brown;
+}
+.sapphire {
+    color: blue;
+}
+.onyx {
+    color: blueviolet;
+}
